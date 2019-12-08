@@ -1,4 +1,4 @@
-#EmoPain Challenge 2020
+# EmoPain Challenge 2020
 
 Progetto per la partecipazione alla challenge.
 Lo scopo è quello di classificare l'intensità del dolore
